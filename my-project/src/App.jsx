@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
-const react = () => {
-  return (
-    <div>react</div>
-  )
-}
+const App = () => {
+  return <div>App</div>;
+};
 
-export default react
+export default App;
